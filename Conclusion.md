@@ -1,4 +1,3 @@
-La ofuscación hace que la logica del codigo, aun pueda ser interpretada por una persona si le dedica la atencion adecuada
-sin embargo, se vuelve muy complcado el poder entender a donde se dirige la informacion, en que variables se guarda
-y cuales se estan utilizando, debido al cambio de nombres que se da en las clases, en las variables y en algunos segmentos 
-del codigo, opino que se cumple satisfactoriamente con el proposito fundamental de la ofuscación, el cual es proteger el codigo
+La ofuscación no elimina la funcionalidad ni altera el comportamiento del programa, por lo que una persona con suficiente conocimiento técnico podría llegar a comprender la lógica del sistema si analiza el código con detenimiento. Sin embargo, el proceso dificulta considerablemente esa tarea, ya que modifica los nombres de clases, métodos y variables, lo que impide identificar fácilmente el flujo de datos y la finalidad de cada componente.
+
+Debido a estos cambios, se vuelve más complejo rastrear cómo circula la información dentro del programa y cuál es la función específica de cada elemento. En este sentido, la ofuscación cumple adecuadamente su objetivo principal: incrementar la protección del código fuente frente a intentos de análisis o ingeniería inversa, haciendo que su comprensión requiera mucho más tiempo y esfuerzo.
